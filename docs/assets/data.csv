@@ -1,0 +1,11 @@
+PlayerName,Club,DistanceCovered(InKms),Goals,MinutestoGoalRatio,ShotsPerGame,AgentCharges,BMI,Cost,PreviousClubCost,Height,Weight,Score
+"Braund, Mr. Owen Harris",MUN,3.96,7.5,37.5,12.3,60,20.56,109.1,63.32,195.9,78.9,19.75
+"Allen, Mr. William Henry",MUN,4.41,8.3,38.2,12.7,68,20.67,102.8,58.55,189.7,74.4,21.3
+"Moran, Mr. James",MUN,4.14,5,36.4,11.6,21,21.86,104.6,55.36,177.8,69.1,19.88
+"McCarthy, Mr. Timothy J",MUN,4.11,5.3,37.3,12.6,69,21.88,126.4,57.18,185,74.9,23.66
+"Palsson, Master. Gosta Leonard",MUN,4.45,6.8,41.5,14,29,18.96,80.3,53.2,184.6,64.6,17.64
+"Saundercock, Mr. William Henry",MUN,4.1,4.4,37.4,12.5,42,21.04,75.2,53.77,174,63.7,15.58
+"Andersson, Mr. Anders Johan",MUN,4.31,5.3,39.6,12.8,73,21.69,87.2,60.17,186.2,75.2,19.99
+"Rice, Master. Eugene",MUN,4.42,5.7,39.9,13.2,44,20.62,97.9,48.33,173.8,62.3,22.43
+"Williams, Mr. Charles Eugene",MUN,4.3,8.9,41.1,13.5,41,22.64,75.1,54.57,171.4,66.5,17.95
+"Fynney, Mr. Joseph J",MUN,4.51,4.4,41.6,12.7,44,19.44,65.1,53.42,179.9,62.9,15.07
