@@ -14,5 +14,8 @@ Step 2:- After successful login, go to the right side of the dashboard and switc
 
 Step 3:- Next, go to the settings menu on the left side of your dashboard and generate the test keys as shown below
 
-    ![Image 1](https://prmguidelines.github.io/assets/images/razorpay_2.webp)
+<figure markdown>
+
+![Alt text](https://prmguidelines.github.io/assets/images/razorpay_2.webp)
+</figure>
 
