@@ -8,11 +8,11 @@ Step 2:- After successful login, go to the right side of the dashboard and switc
 
 <figure markdown>
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://prmguidelines.github.io/assets/images/razorpay_1.webp)
 </figure>
 
 
 Step 3:- Next, go to the settings menu on the left side of your dashboard and generate the test keys as shown below
 
-    ![Image 1](/assets/images/razorpay_2.webp)
+    ![Image 1](https://prmguidelines.github.io/assets/images/razorpay_2.webp)
 
