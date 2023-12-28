@@ -7,7 +7,9 @@ Step 1:- Create an account in [Razorpay](https://easy.razorpay.com/onboarding/l1
 Step 2:- After successful login, go to the right side of the dashboard and switch to test mode as shown below.
 
 <figure markdown>
-    ![Image 1](/assets/images/razorpay_1.webp)
+    <img title="a title" alt="Alt text" src="assets/images/razorpay_1.webp">
+
+    ![Image 1]("assets/images/razorpay_1.webp")
     <figcaption>Image caption</figcaption>
 </figure>
 
