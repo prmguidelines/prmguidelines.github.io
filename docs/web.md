@@ -1,4 +1,5 @@
 ## **Web App Development**
+### **Topics**
 
 
 ### **Modules**
@@ -11,3 +12,13 @@
     * [x] In scelerisque nibh non dolor mollis congue sed et metus
     * [ ] Praesent sed risus massa
 - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque -->
+
+#### Live Search
+- [x] [Live Search](web/live_search.md)
+
+#### Notifications
+- [x] [Notifications](web/notifications.md)
+
+#### Chat
+<!-- - [ ] [Chat](web/razorpay.md) -->
+- [ ] Chat
